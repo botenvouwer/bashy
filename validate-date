@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [[ ! $1 =~ ^[0-9]{2}-[0-9]{2}-[0-9]{4}$ ]]
+then
+	echo "not valid"
+else
+	echo "valid+"
+fi
+

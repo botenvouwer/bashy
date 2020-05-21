@@ -1,0 +1,2 @@
+test dit uit
+input_dir=/etlresult/bgt/16-09-2019
